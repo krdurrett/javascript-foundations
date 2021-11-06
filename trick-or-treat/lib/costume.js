@@ -4,4 +4,4 @@ class Costume {
   }
 }
 
-module.exports = Costume;
+module.exports = Costume

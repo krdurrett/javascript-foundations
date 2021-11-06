@@ -4,4 +4,4 @@ class Candy {
   }
 }
 
-module.exports= Candy;
+module.exports= Candy

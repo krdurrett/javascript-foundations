@@ -17,4 +17,4 @@ class Bag {
   }
 }
 
-module.exports = Bag;
+module.exports = Bag

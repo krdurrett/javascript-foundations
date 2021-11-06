@@ -17,4 +17,4 @@ class TrickOrTreater {
   }
 }
 
-module.exports = TrickOrTreater;
+module.exports = TrickOrTreater
