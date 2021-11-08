@@ -38,7 +38,7 @@ Completing all of these test suites is not necessary, but you should be working 
 
 ### Greatest Hits
 - [x] 🧚 ‍[Mythical Creatures](./mythical-creatures)
-- [ ] 🧶 [Crafting](./crafting)
+- [x] 🧶 [Crafting](./crafting)
 - [x] 🏃🏻‍♀️ [Road Race](./roadrace)
 - [x] ⛳️ [Golf Course](./golf-course)
 - [x] 🎃 [Trick or Treat](./trick-or-treat)
